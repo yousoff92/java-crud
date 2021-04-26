@@ -11,7 +11,7 @@
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
 		<lombok.version>1.18.6</lombok.version>
-		<commonio.version>2.6</commonio.version>
+		<commonio.version>2.7</commonio.version>
 	</properties>
 
 	<dependencies>
